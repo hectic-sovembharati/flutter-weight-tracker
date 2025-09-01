@@ -48,8 +48,8 @@ A **comprehensive weight tracking app** built with **Flutter & Dart**, designed 
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your app here)
+
+
 
 ---
 
